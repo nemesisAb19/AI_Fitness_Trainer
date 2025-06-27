@@ -122,7 +122,14 @@ AI_PersonTrainer-main/
 2. **Set Up a Virtual Environment (Recommended)**
    ```bash
    python -m venv .venv
-   
+- Activate it:
+  - On Windows:
+    ```bash
+    .venv\Scripts\activate
+  - On macOS/Linux:
+    ```bash
+    source .venv/bin/activate
+
    
 3. **Install the Dependencies**
    ```bash
