@@ -114,11 +114,21 @@ AI_PersonTrainer-main/
 ---
 
 ## How to Download & Run the Project
-
 1. **Clone the Repository**
-```bash
-git clone https://github.com/nemesisAb19/AI_Fitness_Trainer.git
-cd AI_Fitness_Trainer
+   ```bash
+   git clone https://github.com/nemesisAb19/AI_Fitness_Trainer.git
+   cd AI_Fitness_Trainer
+   
+2. **Set Up a Virtual Environment (Recommended)**
+   ```bash
+   python -m venv .venv
+   - Activate it:
+     - On Windows:
+   
+   
+4. Install the Dependencies
+5. Run the App
+
 
 2. Set Up a Virtual Environment (Recommended)
 ```bash
