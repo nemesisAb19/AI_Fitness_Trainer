@@ -122,12 +122,15 @@ AI_PersonTrainer-main/
 2. **Set Up a Virtual Environment (Recommended)**
    ```bash
    python -m venv .venv
-   - Activate it:
-     - On Windows:
    
    
-4. Install the Dependencies
-5. Run the App
+3. **Install the Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   
+4. **Run the App**
+   ```bash
+   python main.py
 
 
 2. Set Up a Virtual Environment (Recommended)
@@ -141,14 +144,6 @@ python -m venv .venv
   - On macOS/Linux:
     ```bash
     source .venv/bin/activate
-
-### 3. Install the Dependencies
-```bash
-pip install -r requirements.txt
-
-### 4. Run the App
-```bash
-python main.py
 
 ---
 
