@@ -117,7 +117,7 @@ AI_PersonTrainer-main/
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/nemesisAb19/AI_Fitness_Trainer.git
-   cd AI_Fitness_Trainer
+   cd AI_PersonTrainer-main
    
 2. **Set Up a Virtual Environment (Recommended)**
    ```bash
