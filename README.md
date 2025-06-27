@@ -45,6 +45,29 @@ AI_PersonTrainer-main/
 
 ---
 
+## Tech Stack
+
+**Languages & UI Framework**
+- Python 3.x
+- Tkinter (for GUI)
+
+**Computer Vision**
+- OpenCV
+- MediaPipe
+
+**Voice Interaction**
+- pyttsx3 (Text-to-Speech)
+- SpeechRecognition
+
+**Image & Media Handling**
+- Pillow
+
+**Other**
+- Virtual Environment (`venv`)
+- Git & GitHub for version control
+
+---
+
 ## Features
 
 - Real-time pose detection using **MediaPipe**
