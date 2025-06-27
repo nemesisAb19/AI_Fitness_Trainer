@@ -155,6 +155,28 @@ Listed in requirements.txt but key libraries include:
 
 ## Screenshots
 
+![Image](https://github.com/user-attachments/assets/5c324fcb-3534-450b-9af7-6e8335a9246d)
+
+![Image](https://github.com/user-attachments/assets/d2f8cec1-ef82-4ed9-9bd2-12abb9e56537)
+
+![Image](https://github.com/user-attachments/assets/90944f06-1334-44cf-bce2-677a1f662778)
+
+![Image](https://github.com/user-attachments/assets/de6794eb-9a0b-4cdc-a01e-a3bc145a3585)
+
+![Image](https://github.com/user-attachments/assets/187eb040-eb70-431b-a897-c2e24c2d394b)
+
+![Image](https://github.com/user-attachments/assets/cb99a5c5-a722-46e2-89ff-4375297f22c2)
+
+![Image](https://github.com/user-attachments/assets/0c4b7a8d-d2e7-441f-8496-beba9eaddf0b)
+
+![Image](https://github.com/user-attachments/assets/b3b4c5a1-4b63-40e3-8ffa-b28184380f28)
+
+![Image](https://github.com/user-attachments/assets/f5a499e0-4d46-4e8f-b214-7c937d2f77bd)
+
+![Image](https://github.com/user-attachments/assets/48ee6b89-e196-4ba6-a9c3-9d1321ed530a)
+
+![Image](https://github.com/user-attachments/assets/8327a41f-ee96-4bdb-b7c7-40a4adfe33ff)
+
 ---
 
 ## 📃 License
